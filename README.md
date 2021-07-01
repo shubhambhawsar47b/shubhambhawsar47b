@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shubham Bhawsar (@shubhambhawsar47b)
-- 👀 I’m interested in Full Stack Developer(MERN).
+- 👀 I’m interested in Full Stack Developement(MERN).
 - 🌱 I’m currently learning JavaScript, React.
 - 📫 How to reach me shubham.bhawsar@47billion.com
 
